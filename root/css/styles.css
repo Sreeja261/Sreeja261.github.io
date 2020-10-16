@@ -1,0 +1,46 @@
+#header-nav{
+    background-color: brown;
+}
+.container{
+    margin: 0 0 0 0 ;
+}
+#navbar-brand{
+    font-family: 'Lora', serif;
+    font-size: 2em;
+    font: bold;
+    font-weight: bold;
+    margin: 0 0 0 0;
+    color: cornsilk;
+
+}
+#nav-list{
+    margin:10px
+}
+.menu-item{
+    background-color: rgb(19, 158, 116);
+    height: 1000px;
+    margin: 10px;
+}
+.matter{
+    color: #557c3e;
+  font-size: .8em;
+  line-height: 1.8;
+}
+.menu-item p{
+    text-align: center;
+    margin: 5px;
+    font-size: 1em;
+    color: floralwhite;
+}
+ #title-name{
+     margin-top:3px;
+ }
+ #lol{
+     background-color: burlywood;
+ }
+ .dish{
+     width:100%;
+ }
+ ul li{
+     text-align: center;
+ }
